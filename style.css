@@ -1,3 +1,22 @@
 h1{
 	text-align: center;
 }
+#red{
+	background-color: red;
+}
+#purple{
+	background-color: purple;
+}
+#green{
+	background-color: green;
+}
+#blue{
+	background-color: blue;
+}
+#orange{
+	background-color: #ff8d02;
+}
+.canvas{
+	border-style: solid;
+	border-width: 1px;
+}
